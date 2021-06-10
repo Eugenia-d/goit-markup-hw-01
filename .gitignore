@@ -140,8 +140,6 @@ Temporary Items
 *.cer
 *.csr
 *.css
-*.htm
-*.html
 *.js
 *.jsp
 *.php
